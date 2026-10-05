@@ -6,6 +6,7 @@ I am a Robotics PhD Candidate at Georgia Tech. I am co-advised by Ye Zhao ([LIDA
 - [QuadGap](https://github.com/ivaROS/quad_gap): Safe gap-based local planner for quadrupeds (ICRA `23) 
 - [QuadPiPS](https://github.com/quad-pips-open/quad_pips): Search+optimization foothold planner for quadrupeds (current)
 
+## Contributions
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
